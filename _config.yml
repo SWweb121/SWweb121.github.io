@@ -1,7 +1,7 @@
 inc:
   # Blog Information
-  title:        "Privacy-preserving Layer 2 Scaling "
-  subtitle:     "A novel lay 2 blockchain scaling solution with privacy-preserving transactions."
+  title:        "具有隐私性的区块链拓展方案"
+  
   cover_image:  blog-cover.jpg
   logo:         logo.png
 
